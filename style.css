@@ -1,68 +1,33 @@
-*{
-    margin: 0%;
-    padding: 0%;
+body{
+    background-color: rgb(182, 182, 194);
 }
-
-.icon{
-    width: 1200px;
-    height: 75px;
-    margin: auto;
-}
-
-.navbar{
-    width: 1200px;
-    height: 75px;
-    margin: auto;
-}
-.icon{
-    width: 200px;
-    float: left;
-    height: 70px;
-}
-
-.LOGO{
+#d1{
+    background-color: blanchedalmond;
     color: brown;
-    font-size: larger;
-    font-family: Arial;
-    padding-left: 20px;
-    float: left;
-    padding-top: 10px;
 }
-
-.menu{
-    width: 400px;
-    float: left;
-    height: 70px;
+p{
+    background-color: aqua;
+    color: rgb(114, 24, 24);
 }
-
-ul{
-    float: left;
-    display: flex;
-    justify-items: center;
-    align-items: center;
-}
-
-ul li{
-    list-style: none;
-    margin-left: 62px;
-    margin-top: 27px;
-    font-size: 14px;
-}
-
-ul li a{
-    text-decoration: none;
+#c1{
+    background-color: blue;
     color: black;
-    font-family: Arial;
-    font-weight: bold;
-    transition: 0.4s ease-in-out;
 }
-
-ul li a:hover{
-    color: blue;
+#k1{
+    background-color: aquamarine;
 }
-
-.search{
-    width: 330px;
-    float: left;
-    margin-left: 270px;
+#t1{
+    background-color: rgb(163, 123, 123);
+}
+#p1{
+    background-color: blueviolet;
+}
+#q1{
+    background-color: beige;
+}
+#r1{
+    background-color: aqua;
+}
+#o2{
+    background-color: azure;
 }
